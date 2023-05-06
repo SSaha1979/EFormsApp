@@ -1,7 +1,7 @@
 from selenium.webdriver.common.by import By
 
 class NewFrmRejectLvl:
-    i_NewFrmReject_xpath='//*[@id="EQSA6137"]/td[7]/div/button/i'
+    i_NewFrmReject_xpath='//*[@id="EQSA6143"]/td[7]/div/button/i'
     i_NewFrmReject_xpath_done='//*[@id="btnReject"]/label'
     txt_Reject_xpath='//*[@id="comment-reject"]'
     btn_RjctSubmit_id="rejectSubmit"

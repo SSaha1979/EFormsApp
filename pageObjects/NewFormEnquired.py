@@ -1,7 +1,7 @@
 from selenium.webdriver.common.by import By
 
 class NewFrmEnqrLevel:
-    i_NewFrmEnqr_xpath='//*[@id="EQSA6137"]/td[7]/div/button/i'
+    i_NewFrmEnqr_xpath='//*[@id="EQSA6144"]/td[7]/div/button/i'
     i_NewFrmEnqr_xpath_done='//*[@id="btnEnquire"]/label'
     txt_Enquire_xpath='//*[@id="comment-enquire"]'
     btn_EnqrSubmit_id="enquireSubmit"

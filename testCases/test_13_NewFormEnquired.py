@@ -28,9 +28,9 @@ class Test_010_Enquired:
     #
 
     # @pytest.mark.sanity
-    @pytest.mark.regression
+    # @pytest.mark.regression
     def test_login(self,setup):
-        self.logger.info("******************Test_010_Enquire*******************")
+        self.logger.info("******************Test_013_Enquire*******************")
         self.logger.info("***************Verifying Enquire test****************")
         self.driver = setup
         self.driver.get(self.baseURL)

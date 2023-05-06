@@ -17,7 +17,7 @@ class Test_011_Rejected:
     logger=LogGen.loggen()
 
     # @pytest.mark.sanity
-    @pytest.mark.regression
+    # @pytest.mark.regression
     def test_login(self,setup):
         self.logger.info("******************Test_011_Reject********************")
         self.logger.info("****************Verifying Reject test****************")
