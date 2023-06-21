@@ -56,4 +56,4 @@ class Test_003_NewFormSearch:
             self.driver.close()
             self.logger.error("****************FormSearch is failed****************")
             assert False
-        time.sleep(2)
+        time.sleep(5)
