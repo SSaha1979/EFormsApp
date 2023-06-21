@@ -8,7 +8,7 @@ from pageObjects.MyRequest import MyRequest
 from utilities.customLogger import LogGen
 from selenium.webdriver.common.by import By
 
-class Test_010_Enquired:
+class Test_013_Enquired:
     baseURL = "http://win-6cgsdmg51od:8500/Login/Index"
     username = "mk"
     password = "Mobinext@123"

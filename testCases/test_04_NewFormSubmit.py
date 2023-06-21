@@ -102,7 +102,7 @@ class Test_004_NewFormSubmit:
             self.driver.close()
             self.logger.error("*****************FormSubmit is failed***************")
             assert False
-        time.sleep(20)
+        time.sleep(30)
         self.lp.okButton()
         time.sleep(5)
 

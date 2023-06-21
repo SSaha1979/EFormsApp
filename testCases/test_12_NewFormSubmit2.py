@@ -9,7 +9,7 @@ from utilities.customLogger import LogGen
 # driver = webdriver.Chrome()
 from selenium.webdriver.common.by import By
 
-class Test_004_NewFormSubmit:
+class Test_012_NewFormSubmit:
     baseURL = "http://win-6cgsdmg51od:8500/Login/Index"
     username = "cpu"
     password = "Mobinext@123"

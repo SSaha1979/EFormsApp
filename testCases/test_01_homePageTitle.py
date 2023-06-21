@@ -1,7 +1,6 @@
 import time
 import pytest
 
-
 from selenium import webdriver
 from pageObjects.LoginPage import LoginPage
 # driver = webdriver.Chrome()
